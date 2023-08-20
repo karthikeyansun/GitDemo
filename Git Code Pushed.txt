@@ -1,0 +1,6 @@
+Git Init
+git add *
+git status
+git commit -m "first commit message"
+git remote add origin https://gihub.com.karthikeyansun/GitDemo.git
+git push origin master
